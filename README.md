@@ -1,6 +1,6 @@
-##Flux Boilerplate
+##React Stickypad
 
-This is a simple boilerplate and file/folder structure for React.js and the Flux architecture.
+This app allows us to create, save and delete note. 
 
 
 ###Usage
@@ -15,3 +15,5 @@ Run Gulp
 ```
 gulp
 ```
+
+Also need a mongoDB. This is a good and free solution mlab.com
